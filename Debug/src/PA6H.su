@@ -1,0 +1,3 @@
+PA6H.c:10:13:PA6H_init	8	static
+PA6H.c:25:20:PA6H_sendCommand	16	static
+PA6H.c:32:13:PA6H_getData	24	static
